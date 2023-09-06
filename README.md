@@ -1,1 +1,1 @@
-I am learning Shell Basics
+Shell Basics Readme
